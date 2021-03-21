@@ -1,5 +1,15 @@
 # fitstop
 
+# how to contribute
+
+to download code
+
+`git clone https://github.com/praveen639/fitstop.git`
+
+to upload
+
+`git push origin main`
+
 # Installation
 
 Requirements: Python3+, django
